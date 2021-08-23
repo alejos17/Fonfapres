@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-23T22:54:53.917Z" agent="5.0 (Macintosh)" etag="oAiWXwpT2Hjvm4JtrhrW" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-23T22:55:49.526Z" agent="5.0 (Macintosh)" etag="1MSLJMrF4-RvZbJi-RuG" version="14.9.8" type="github">
   <diagram id="Asg4t91BoBA0pmLis922" name="Page-1">
     <mxGraphModel dx="703" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,9 +11,9 @@
           <mxGeometry y="30" width="160" height="260" as="geometry" />
         </mxCell>
         <mxCell id="r9OYmFzAwWM_W3pXWBBk-5" value="Cuentas" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="510" y="150" width="160" height="120" as="geometry" />
+          <mxGeometry x="400" y="140" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="r9OYmFzAwWM_W3pXWBBk-6" value="+ID&#xa;+codigo+saldo&#xa;+tipoCuenta&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="r9OYmFzAwWM_W3pXWBBk-5">
+        <mxCell id="r9OYmFzAwWM_W3pXWBBk-6" value="+ID&#xa;+codigo&#xa;+saldo&#xa;+tipoCuenta&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="r9OYmFzAwWM_W3pXWBBk-5">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="r9OYmFzAwWM_W3pXWBBk-7" value="Creditos" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
@@ -23,7 +23,7 @@
           <mxGeometry y="30" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="r9OYmFzAwWM_W3pXWBBk-9" value="Caja" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="260" y="290" width="160" height="140" as="geometry" />
+          <mxGeometry x="254" y="445" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="r9OYmFzAwWM_W3pXWBBk-10" value="+ID&#xa;+codigo&#xa;+nRecibo&#xa;+fecha&#xa;+concepto&#xa;+valor" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="r9OYmFzAwWM_W3pXWBBk-9">
           <mxGeometry y="30" width="160" height="110" as="geometry" />
