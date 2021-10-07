@@ -1,0 +1,13 @@
+/Users/alejos17/Documents/code_alejos17/Fonfapres/Fonfapres.App/Fonfapres.App.Data/bin/Debug/netstandard2.1/Fonfapres.App.Data.deps.json
+/Users/alejos17/Documents/code_alejos17/Fonfapres/Fonfapres.App/Fonfapres.App.Data/bin/Debug/netstandard2.1/Fonfapres.App.Data.dll
+/Users/alejos17/Documents/code_alejos17/Fonfapres/Fonfapres.App/Fonfapres.App.Data/bin/Debug/netstandard2.1/Fonfapres.App.Data.pdb
+/Users/alejos17/Documents/code_alejos17/Fonfapres/Fonfapres.App/Fonfapres.App.Data/obj/Debug/netstandard2.1/Fonfapres.App.Data.csproj.AssemblyReference.cache
+/Users/alejos17/Documents/code_alejos17/Fonfapres/Fonfapres.App/Fonfapres.App.Data/obj/Debug/netstandard2.1/Fonfapres.App.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejos17/Documents/code_alejos17/Fonfapres/Fonfapres.App/Fonfapres.App.Data/obj/Debug/netstandard2.1/Fonfapres.App.Data.AssemblyInfoInputs.cache
+/Users/alejos17/Documents/code_alejos17/Fonfapres/Fonfapres.App/Fonfapres.App.Data/obj/Debug/netstandard2.1/Fonfapres.App.Data.AssemblyInfo.cs
+/Users/alejos17/Documents/code_alejos17/Fonfapres/Fonfapres.App/Fonfapres.App.Data/obj/Debug/netstandard2.1/Fonfapres.App.Data.csproj.CoreCompileInputs.cache
+/Users/alejos17/Documents/code_alejos17/Fonfapres/Fonfapres.App/Fonfapres.App.Data/obj/Debug/netstandard2.1/Fonfapres.App.Data.dll
+/Users/alejos17/Documents/code_alejos17/Fonfapres/Fonfapres.App/Fonfapres.App.Data/obj/Debug/netstandard2.1/Fonfapres.App.Data.pdb
+/Users/alejos17/Documents/code_alejos17/Fonfapres/Fonfapres.App/Fonfapres.App.Data/bin/Debug/netstandard2.1/Fonfapres.App.Domain.dll
+/Users/alejos17/Documents/code_alejos17/Fonfapres/Fonfapres.App/Fonfapres.App.Data/bin/Debug/netstandard2.1/Fonfapres.App.Domain.pdb
+/Users/alejos17/Documents/code_alejos17/Fonfapres/Fonfapres.App/Fonfapres.App.Data/obj/Debug/netstandard2.1/Fonfapres.App.Data.csproj.CopyComplete
