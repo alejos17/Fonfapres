@@ -13,7 +13,7 @@ namespace Fonfapres.App.Console
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello World!");
-            AddPartner();
+            //AddPartner();
 
         }
 
