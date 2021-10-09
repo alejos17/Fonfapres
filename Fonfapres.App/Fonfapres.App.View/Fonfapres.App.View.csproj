@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Fonfapres.App.Domain\Fonfapres.App.Domain.csproj" />
+    <ProjectReference Include="..\Fonfapres.App.Data\Fonfapres.App.Data.csproj" />
+  </ItemGroup>
+
 </Project>

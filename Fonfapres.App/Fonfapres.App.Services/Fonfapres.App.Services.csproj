@@ -8,4 +8,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Fonfapres.App.Domain\Fonfapres.App.Domain.csproj" />
+    <ProjectReference Include="..\Fonfapres.App.Data\Fonfapres.App.Data.csproj" />
+  </ItemGroup>
+
 </Project>
